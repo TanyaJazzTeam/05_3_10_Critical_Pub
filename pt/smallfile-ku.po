@@ -8,7 +8,7 @@ msgstr "Uma captura de tela mostrando a barra lateral do amplificador."
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
-msgstr "Uma captura de tela do site."
+msgstr "Uma captura de tela do site._03"
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
