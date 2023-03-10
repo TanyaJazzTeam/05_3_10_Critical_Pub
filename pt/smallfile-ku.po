@@ -4,7 +4,7 @@ msgstr "Uma captura de tela de um site usando AMP."
 
 #: /views/partials/format-visuals/websites.j2:10
 msgid "A screenshot showing amp-sidebar."
-msgstr "Uma captura de tela mostrando a barra lateral do amplificador."
+msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
