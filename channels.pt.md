@@ -18,8 +18,8 @@ O Nextflow distingue dois tipos diferentes de canais: canais **de fila** e canai
 
 Um canal *de fila* é uma fila *FIFO* unidirecional *assíncrona* que conecta dois processos ou operadores.
 
-- *assíncrono* significa que as operações são sem bloqueio.
-- *unidirecional* significa que os dados fluem de um produtor para um consumidor.
+- *assíncrono* significa que as operações são sem bloqueio hs.
+- *unidirecional* significa que os dados fluem de um produtor para um consumidor jhgg.
 - *FIFO* significa que os dados são entregues na mesma ordem em que são produzidos. Primeiro a entrar, primeiro a sair.
 
 Um canal de fila é criado implicitamente por definições de saída de processo ou usando fábricas de canal, como [Channel.of](https://www.nextflow.io/docs/latest/channel.html#of) ou [Channel.fromPath](https://www.nextflow.io/docs/latest/channel.html#frompath) .
